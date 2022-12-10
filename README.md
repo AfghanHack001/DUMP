@@ -9,6 +9,8 @@ pip install requests
 
 pip install meschanize
 
+rm -rf DUMP
+
 git clone https://github.com/AfghanHack001/DUMP
 
 cd DUMP
